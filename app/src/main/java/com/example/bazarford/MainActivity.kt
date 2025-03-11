@@ -43,7 +43,7 @@ class MainActivity : ComponentActivity() {
             BazarFordTheme {
                 Scaffold(
                     modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    LazyTest()
+                    LoginScreen()
 
                 }
             }
